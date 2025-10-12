@@ -65,4 +65,4 @@ await sock.requestPairingCode(number, code);
 
 ---
 
-# Xeuka
+## Made with Love by Xeuka <3
