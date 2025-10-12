@@ -62,14 +62,14 @@ const { makeWASocket } = require("@angstvorfrauen/baileys");
 
 ## Functions
 
-Offer Call Function
+### Offer Call Function
 
 ```js
 const jid = "xxxxx@s.whatsapp.net";
 sock.offerCall(jid);
 ```
 
-Custom Pairing Code
+### Custom Pairing Code
 
 ```js
 const number = "xxxxxxx";
