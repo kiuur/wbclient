@@ -45,6 +45,21 @@ yarn add @angstvorfrauen/baileys
 
 ---
 
+## Import
+
+### ESM
+```typescript
+import makeWASocket from "@angstvorfrauen/baileys";
+```
+
+## CommonJS
+
+```javascript
+const { makeWASocket } = require("@angstvorfrauen/baileys");
+```
+
+---
+
 ## Functions
 
 Offer Call Function
