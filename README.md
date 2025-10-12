@@ -22,6 +22,7 @@
 - **Fixed ListType/ListMessage** – listMessage is Sendable
 - **Added offerCall** – Baileys can Call a Number in WhatsApp
 - **Fix ACK** – Has been Removed (You can Turn on if needed)
+- **Fixed Proto Crash** – Proto can be Updated to the Newest Version with 0 Crashes or Erros
 
 ---
 
@@ -52,7 +53,7 @@ yarn add @angstvorfrauen/baileys
 import makeWASocket from "@angstvorfrauen/baileys";
 ```
 
-## CommonJS
+### CommonJS
 
 ```javascript
 const { makeWASocket } = require("@angstvorfrauen/baileys");
