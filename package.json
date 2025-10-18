@@ -1,6 +1,6 @@
 {
   "name": "@angstvorfrauen/baileys",
-  "version": "2.2.0",
+  "version": "2.2.8",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
     "whatsapp",
@@ -48,7 +48,9 @@
     "pbjs": "^0.0.14",
     "protobufjs": "*",
     "jimp": "0.16.0",
+    "lru-cache": "*",
     "readline": "*",
+    "p-queue": "*",
     "lodash": "*",
     "figlet": "*",
     "axios": "*",

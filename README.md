@@ -9,20 +9,24 @@
 
 ---
 
+## Version
+
+- **Baileys Version** – 2.3000.1028619397
+- **Proto Version** – 2.3000.1028620558
+
+---
+
 ## Changelog
 
-- **libsignal-xeuka** – No more bad Mac Errors anymore
-- **Buttons Support** – Send buttonMessage and Interactive Message
-- **Buttons LID Fix** - Fixed LID && JID for Button Support
+- **libsignal-xeuka** – No more "bad Mac" Error anymore
 - **Linked Device iOS/Safari** – Linked Device set to IOS/Safari
-- **Custom Pairing Code** – Generate and use your own pairing code
-- **Removed Timeout** – Removed Timeout Function
-- **Updated Proto** – WAProto Updated to the Newest Version
+- **Custom Pairing Code** – Generate your Own Pairing Code `AAAA-AAAA`
 - **isBot Fixed in Groups** – `isBot` is Working in Groups and Private Chat properly
-- **Fixed ListType/ListMessage** – listMessage is Sendable
-- **Added offerCall** – Baileys can Call a Number in WhatsApp
-- **Fix ACK** – Has been Removed (You can Turn on if needed)
-- **Fixed Proto Crash** – Proto can be Updated to the Newest Version with 0 Crashes or Erros
+- **Added offerCall** – Call a Number
+- **Removed Timeout** – Removed Timeout Function
+- **Fixed Jimp** – You can change Group Profile Picture again
+- **Buttons Support** – Send Buttons and Interactive
+- **Proto Updated** – Updated Proto to newest Version
 
 ---
 
@@ -40,6 +44,7 @@
 npm install @angstvorfrauen/baileys
 ```
 or
+
 ```bash
 yarn add @angstvorfrauen/baileys
 ```
